@@ -1,12 +1,17 @@
-# CV page with HTMK & CSS
-## ABout
+# CV Page with Html & CSS
+
+## About MY
+
+
 ```
-1.123456
-2.123465
-3.123456
-abouttt
+SEMANTIC TEGS
+1.one 
+2.two
+3.three
+
 ```
 
-[CV page repositoryt](https://github.com/Ash00700Ash/CV__page__frontender)
+[CV page repository](https://ash00700ash.github.io/CV__page__frontender)
 
-![image](./photo.png.png)
+
+![imge](./photo.png.png)
